@@ -99,7 +99,7 @@ body{
     text-align: center;
 }
 
-.link:active{
+.menu a:active{
     background: #DD0000;
 }
 .cards{
